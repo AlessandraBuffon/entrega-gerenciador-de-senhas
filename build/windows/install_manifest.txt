@@ -1,0 +1,8 @@
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

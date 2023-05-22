@@ -1,0 +1,10 @@
+^C:\USERS\ALEBU\DESKTOP\4 SEMESTRE\ENTREGA_TELAS_SENHAS\BUILD\WINDOWS\CMAKEFILES\1956507757BBB45F31925077FF39A9EC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/windows" "-BC:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/entrega_telas_senhas.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

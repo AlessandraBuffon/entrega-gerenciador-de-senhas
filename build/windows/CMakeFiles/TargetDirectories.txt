@@ -1,0 +1,10 @@
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/CMakeFiles/entrega_telas_senhas.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/alebu/Desktop/4 SEMESTRE/entrega_telas_senhas/build/windows/runner/CMakeFiles/ALL_BUILD.dir
